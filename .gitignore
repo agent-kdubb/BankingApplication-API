@@ -7,6 +7,8 @@ target/
 .idea/modules.xml
 .idea/encodings.xml
 .idea/jpa-buddy.xml
+.idea/misc.xml
+.idea/workspace.xml
 .idea/jarRepositories.xml
 .idea/compiler.xml
 .idea/libraries/
