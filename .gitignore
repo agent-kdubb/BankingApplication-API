@@ -12,6 +12,8 @@ target/
 .idea/jarRepositories.xml
 .idea/compiler.xml
 .idea/libraries/
+.idea/jpa-buddy-datasource.xml
+.jpb/
 *.iws
 *.iml
 *.ipr

@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="JpaBuddyIdeaProjectConfig">
+  <component name="JpaBuddyIdeaProjectConfig" ddlActionDbType="postgres" isInitGenerateDdl="true">
     <option name="defaultUnitInitialized" value="true" />
+    <option name="sourceModelValue" value="Default" />
+    <option name="reverseEngineeringLastDbConnectionId" value="b526563b-17ff-4769-be49-1b05bd0788b8" />
+    <option name="reLastEntityCreationPackage" value="src/main/java/com/Banking/Entities" />
+    <reUseDbSnapshotConnections>
+      <dbConnection id="700258d9-e8f5-43e1-af01-b0ea6d371cd1" />
+    </reUseDbSnapshotConnections>
+    <option name="newEntityIdType" value="Integer" />
+    <option name="newEntityIdStrategy" value="Auto" />
   </component>
 </project>
